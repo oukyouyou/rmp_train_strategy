@@ -214,7 +214,6 @@ dependencies:
       - gitpython==3.1.44
       - hyperopt==0.2.7
       - idna==3.10
-      - nvidia-nccl-cu12==2.27.5
       - patsy==1.0.1
       - peewee==3.17.9
       - petname==2.6
